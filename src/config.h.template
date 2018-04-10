@@ -1,0 +1,13 @@
+//
+// Created by gallochri on 10/04/18.
+//
+
+#ifndef TTGOESP8266_CONFIG_H
+#define TTGOESP8266_CONFIG_H
+
+//WIFI configuration
+#define wifi_ssid "gallochri"
+#define wifi_password "ioepiinsieme20061208"
+#define WiFi_hostname "ESP8266-TTGO"
+
+#endif //TTGOESP8266_CONFIG_H
